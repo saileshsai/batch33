@@ -1,4 +1,8 @@
 this is 2nd line
 this is 3rd line
 this is 4th line
+<<<<<<< HEAD
 this is the 5th line from dev2
+=======
+this is the 5th line
+>>>>>>> 9507cfba6f6a11f449f361b7a35eee1d0ec9764c
